@@ -43,3 +43,5 @@ Exercise 2. Familiarize yourself with Python Notebooks if python is your languag
 Exercise 3. Familiarize yourself with Latex (overleaf.com).
 
 Proba
+
+Incarcare in proces
